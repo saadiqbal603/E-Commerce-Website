@@ -492,8 +492,23 @@ footer .copyright {
   justify-content: center;
   padding: 14px;
 }
+
+#page-header-two {
+  background-image: url("img/banner/b19.jpg");
+  width: 100%;
+  height: 40vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 14px;
+}
+
 #page-header h2,
-#page-header p {
+#page-header p,
+#page-header-two h2,
+#page-header-two p {
   color: #fff;
 }
 #pagination {
