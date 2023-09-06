@@ -596,4 +596,22 @@ footer .copyright {
   #sm-banner .banner-box {
     height: 40vh;
   }
+  #sm-banner .banner-box:nth-child(2) {
+    margin-top: 20px;
+  }
+  #banner3 {
+    padding: 0 20px;
+  }
+  #banner3 .banner-box {
+    width: 100%;
+  }
+  #newsletter .form {
+    width: 100%;
+  }
+  #newsletter {
+    padding: 40px 20px;
+  }
+  footer .copyright {
+    text-align: start;
+  }
 }
